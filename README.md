@@ -1,6 +1,6 @@
-## Hii! I'm Filipe Ilunga
+## Hi! I'm Filipe Ilunga
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/FilipeIlunga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipeilunga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeilunga&layout=compact&langs_count=16&theme=dracula"/>
   
@@ -16,9 +16,6 @@
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
  
 </div>
-
-  
- 
 
 <div> 
  
