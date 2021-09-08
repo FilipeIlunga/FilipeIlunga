@@ -1,4 +1,7 @@
 ## Hi!I'm Filipe Ilunga!
+<p>
+I'm a 21 year old student at Universidade Federal do Rio Grande do Sul, currently studying mobile development. I have some personal projects using flutter. I'm currently an intern at Nelogica and i work as a IOS developer.
+</p>
  <div>
   <a href="https://github.com/FilipeIlunga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipeilunga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
