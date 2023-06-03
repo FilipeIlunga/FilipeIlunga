@@ -1,6 +1,6 @@
 ## Hi!I'm Filipe Ilunga!
 <p>
-I'm a 21 year old student at Universidade Federal do Rio Grande do Sul, currently studying mobile development. I have some personal projects using flutter. I'm currently an intern at Nelogica and i work as a IOS developer.
+I'm a 23 year old student at Universidade Federal do Rio Grande do Sul, currently studying mobile development. I have some personal projects using flutter. I'm currently an intern at Nelogica and i work as a IOS developer.
 </p>
  <div>
   <a href="https://github.com/FilipeIlunga">
