@@ -21,9 +21,3 @@ I'm 23 years old, currently pursuing a degree in Computer Science. I am an iOS D
 <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
  
 </div>
-
-<div> 
- 
-   ![Snake animation](https://github.com/filipeilunga/filipeilunga/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
